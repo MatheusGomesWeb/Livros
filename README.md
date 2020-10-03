@@ -12,6 +12,6 @@
 
 ## Linha de Comando
 
-[Linux - Comandos, Serviços e Administração - Casa do Código](/linus-comandos-servicos-administracao) - Introdução a linha de comando no Linux, Principais Comandos, Manipulação de Grupos de usuário, e básico de Shell Script.
+[Linux - Comandos, Serviços e Administração - Casa do Código](/linux-comandos-servicos-administracao) - Introdução a linha de comando no Linux, Principais Comandos, Manipulação de Grupos de usuário, e básico de Shell Script.
 
 [Git e Github - Casa do Código](/git-e-github) - Utilização da ferramenta de controle de versões de código Git, Principais Comandos, Gerenciando um repositório local e Remoto com Github.
