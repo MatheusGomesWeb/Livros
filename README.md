@@ -6,7 +6,7 @@
 
 [C - Como Programar - 6º Edição](/c-como-programar-deitel-6ed) - Estudo da Linguagem C, Programação Estruturada, Estrutura de dados, Gerenciamento de Memória, e introdução a Orientação a Objetos com C++.
 
-[Construindo APIS Rest com Nodejs](#)
+[Construindo APIS Rest com Nodejs](https://github.com/MatheusGomesWeb/livros/tree/master/construindo-api-rest-com-nodejs) - Construção de Aplicações client-side e server-side, utilizando a plataforma Nodejs e Javascript ES6.
 
 ## Engenharia de Software
 
