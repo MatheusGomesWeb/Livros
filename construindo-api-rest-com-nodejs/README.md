@@ -57,19 +57,21 @@ O Nodejs possui o modo **REPL (Read-Eval-Print-Loop)** onde é possível executa
 
 Para executá-lo abra o terminal e execute o comando:
 
-> node
+`node`
 
 para imprimir uma mensagem na tela digite código Javascript normalmente.
 
-> console.log('Hello World!');
+`console.log('Hello World!');`
 
 ### Testando o Nodejs com um arquivo js
 
 Para executar um **arquivo.js** com o Node, crie um arquivo .js, navegue até a pasta onde está o arquivo, e execute:
 
-> node arquivo.js
+`node arquivo.js`
 
 Será impresso na tela o resultado da execução do arquivo.
+
+> Hello World !
 
 ---
 
