@@ -35,6 +35,9 @@
   - [Instalando programas](#instalando-programas)
     - [Instalando pacotes DEB](#instalando-pacotes-deb)
 
+  - [Comandos úteis](#comandos-uteis)
+    - [Criando link simbolico](#criando-link-simbolico)
+
 - [Administração de Usuários](#administração-de-usuários)
   - [Tipos de Usuários](#tipos-de-usuários)
   - [Criação de Usuários](#criação-de-usuários)
@@ -377,6 +380,14 @@ No **vim** podemos navegar pelo arquivo usando as **teclas direcionais** ou as t
 #### Instalando pacotes DEB
 
 > sudo dpkg -i <nome-do-arquivo.deb>
+
+---
+
+### Comandos uteis
+
+#### Criando link simbolico
+
+> ln -s <caminho-arquivo ou pasta> <novo-caminho/nome-nova-pasta>
 
 ---
 
