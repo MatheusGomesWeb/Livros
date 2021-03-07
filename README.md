@@ -2,7 +2,7 @@
 
 ## Programação
 
-[PHP Programando com Orientação a Objetos - Pablo Dall'oglio](/php-programando-com-orientacao-a-objetos) - Fundamentos da Linguagem PHP, Orientação a Objetos, Manipulação de Bancos de Dados com PDO, Design Patterns e muitas novidades coisas da linguagem.
+[PHP Programando com Orientação a Objetos - Pablo Dall'oglio](/php-programando-com-orientacao-a-objetos) - Fundamentos da Linguagem PHP, Orientação a Objetos, Manipulação de Bancos de Dados com PDO, Design Patterns e muitas novidades da linguagem.
 
 [C - Como Programar - 6º Edição](/c-como-programar-deitel-6ed) - Estudo da Linguagem C, Programação Estruturada, Estrutura de dados, Gerenciamento de Memória, e introdução a Orientação a Objetos com C++.
 
