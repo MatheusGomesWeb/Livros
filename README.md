@@ -2,11 +2,11 @@
 
 ## Programação
 
-[PHP Programando com Orientação a Objetos - Pablo Dall'oglio](/php-programando-com-orientacao-a-objetos) - Fundamentos da Linguagem PHP, Orientação a Objetos, Manipulação de Bancos de Dados com PDO, Design Patterns e muitas novidades coisas da linguagem.
+[PHP Programando com Orientação a Objetos - Pablo Dall'oglio](/php-programando-com-orientacao-a-objetos) - Fundamentos da Linguagem PHP, Orientação a Objetos, Manipulação de Bancos de Dados com PDO, Design Patterns e muitas novidades da linguagem.
 
-[C - Como Programar - 6º Edição](/c-como-programar-deitel-6ed) - Estudo da Linguagem C, Programação Estruturada, Estrutura de dados, Gerenciamento de Memória, e introdução a Orientação a Objetos com C++.
+[C - Como Programar - Deitel - 6º Edição](/c-como-programar-deitel-6ed) - Estudo da Linguagem C, Programação Estruturada, Estrutura de dados, Gerenciamento de Memória, e introdução a Orientação a Objetos com C++.
 
-[Construindo APIS Rest com Nodejs](https://github.com/MatheusGomesWeb/livros/tree/master/construindo-api-rest-com-nodejs) - Construção de Aplicações client-side e server-side, utilizando a plataforma Nodejs e Javascript ES6.
+[Construindo APIS Rest com Nodejs - Casa do Código](https://github.com/MatheusGomesWeb/livros/tree/master/construindo-api-rest-com-nodejs) - Construção de Aplicações client-side e server-side, utilizando a plataforma Nodejs e Javascript ES6.
 
 ## Engenharia de Software
 
