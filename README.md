@@ -6,8 +6,6 @@
 
 [C - Como Programar - Deitel - 6º Edição](/c-como-programar-deitel-6ed) - Estudo da Linguagem C, Programação Estruturada, Estrutura de dados, Gerenciamento de Memória, e introdução a Orientação a Objetos com C++.
 
-[Construindo APIS Rest com Nodejs - Casa do Código](https://github.com/MatheusGomesWeb/livros/tree/master/construindo-api-rest-com-nodejs) - Construção de Aplicações client-side e server-side, utilizando a plataforma Nodejs e Javascript ES6.
-
 ## Engenharia de Software
 
 [UML 2 - Uma Abordagem Prática - 3º Edição](/uml2-uma-abordagem-pratica-3ed) - Etapas de Análise e Levantamento de Requisitos de Software, Diagramação de Software utilizando UML, Casos de Uso, Diagrama de Classes, Fundamentos de Orientação a Objetos e muitos outros diagramas.
