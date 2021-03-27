@@ -12,6 +12,7 @@
    - [Trabalhando com Repositório](#trabalhando-com-repositório)
    - [Trabalhando com Branchs](#trabalhando-com-branchs)
    - [Trabalhando com Branchs REMOTAS](#trabalhando-com-branchs-remotas)
+   - [Solução para Problemas](#solucao-para-problemas)
    - [Controlando Versões com TAGS](#controlando-versões-com-tags)
    - [Lidando com Conflitos](#lidando-com-conflitos)
    - [Maneiras de Trabalhar com Git](#maneiras-de-trabalhar-com-git)
@@ -148,6 +149,12 @@ O **Git** possui um mecanismo que **permite ignorarmos arquivos**. Basta criarmo
    - **git branch origin 'nomebranch'**: Compartilha a branch no repositorio remoto do github (Envia para o repositorio remoto).
    - **git checkout -b origin/'nomebranch'**: Troca para a branch do repositorio remoto.
    - **git fetch origin**: Traz os commits de uma branch remota que ainda não estavam presentes localmente.
+
+## Solucao para Problemas
+
+// Quando acidentalmente subimos um arquivo gigantesco, este comando pesquisa em todos os commits e remove o arquivo específico
+
+> git filter-branch --tree-filter 'rm -f DVD-rip' HEAD
 
 ## Controlando versões com TAGS
 
